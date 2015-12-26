@@ -2,6 +2,7 @@ name: poxlyfe
 favicon: null
 layout_spectrum: 0.44135186541825533
 typography_spectrum: 0.9380562636069953
+title: "Paco's Reads"
 cta:
   domain: null
   bucket: null
