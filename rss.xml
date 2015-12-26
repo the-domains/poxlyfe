@@ -4,8 +4,15 @@
         <description><![CDATA[Paco's Reads]]></description>
         <link>https://thegrid.ai/poxlyfe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 04:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 04:07:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poxlyfe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What if the Secret to Success Is Failure?]]></title>
+            <description><![CDATA[<article><h1>What if the Secret to Success Is Failure?</h1><p>Dominic Randolph can seem a little out of place at Riverdale Country School - which is odd, because he's the headmaster. Riverdale is one of New York City's most prestigious private schools, with a 104-year-old campus that looks down grandly on Van Cortlandt Park from the top of a steep hill in the richest part of the Bronx.</p><img src="http://static01.nyt.com/images/2011/09/18/magazine/18character3_span/18character3_span-articleLarge.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2011/09/18/magazine/what-if-the-secret-to-success-is-failure.html?_r=1&amp;pagewanted=all</link>
+            <guid isPermaLink="false">9e71e13f-20dc-405c-a14b-c613c5e253c6</guid>
+            <pubDate>Sat, 26 Dec 2015 04:06:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The James Franco Project [New York Magazine]]]></title>
             <description><![CDATA[<article><h1>The James Franco Project [New York Magazine]</h1><p>Movie star, conceptual artist, fiction writer, grad student, cipher-he's turned a Hollywood career into an elaborate piece of performance art. But does it mean anything? A critical investigation, with bathroom break. By Sam Anderson Published Jul 25, 2010 Illustration by Gluekit (Photo: Andrew H. Walker/Getty Images) 1. The Wink "Franco is here.</p><img src="http://images.nymag.com/movies/profiles/franco100726_1_560.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theatlantic.com/business/archive/2015/09/the-post-war-american-home/407227/</link>
             <guid isPermaLink="false">b09482bd-7228-4a27-b487-9ebfe60f14cc</guid>
             <pubDate>Sat, 26 Dec 2015 03:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the Secretive World of Elite Wealth Management]]></title>
-            <description><![CDATA[<article><h1>Inside the Secretive World of Elite Wealth Management</h1><p>A sociologist realized that if she were ever going to understand global inequality she would have to become one of the people who helps create it. So she trained to become a wealth manager to the ultra-rich.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75f7f34f3d7c4eef3792579487a134de00c36f0a.jpg"></article>]]></description>
-            <link>http://www.theatlantic.com/business/archive/2015/10/elite-wealth-management/410842/</link>
-            <guid isPermaLink="false">e5b98f53-e2c7-48f2-b263-ec44dd31a013</guid>
-            <pubDate>Sat, 26 Dec 2015 03:51:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
