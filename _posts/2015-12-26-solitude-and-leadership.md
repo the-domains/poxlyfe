@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://theamericanscholar.org/solitude-and-leadership/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - solitude
   - multitasking
@@ -17,8 +17,8 @@ keywords:
   - means
   - find
 description: 'If you want others to follow, learn to be alone with your thoughts.'
-datePublished: '2015-12-26T03:33:05.613Z'
-dateModified: '2015-12-26T03:32:23.703Z'
+datePublished: '2015-12-26T03:34:51.683Z'
+dateModified: '2015-12-26T03:33:42.032Z'
 author: []
 related: []
 app_links: []
