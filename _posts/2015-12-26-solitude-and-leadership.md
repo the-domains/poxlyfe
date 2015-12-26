@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://theamericanscholar.org'
-  name: Theamericanscholar
-  favicon: null
-  domain: theamericanscholar.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://theamericanscholar.org/solitude-and-leadership/'
+inLanguage: en
+starred: false
 keywords:
   - solitude
   - multitasking
@@ -17,20 +16,23 @@ keywords:
   - things
   - means
   - find
-description: 'If you want others to follow, learn to be alone with your thoughts The lecture below was delivered to the plebe class at the United States Military Academy at West Point in October 2009. My title must seem like a contradiction. What can solitude have to do with leadership?'
-inLanguage: en
+description: 'If you want others to follow, learn to be alone with your thoughts.'
+datePublished: '2015-12-26T03:33:05.613Z'
+dateModified: '2015-12-26T03:32:23.703Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://theamericanscholar.org/solitude-and-leadership/'
 title: Solitude and Leadership
-datePublished: '2015-12-26T03:29:14.881Z'
-dateModified: '2015-12-26T03:28:12.831Z'
 sourcePath: _posts/2015-12-26-solitude-and-leadership.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Theamericanscholar
+  domain: theamericanscholar.org
+  url: 'https://theamericanscholar.org'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Solitude and Leadership</h1><p>If you want others to follow&amp;comma; learn to be alone with your thoughts The lecture below was delivered to the plebe class at the United States Military Academy at West Point in October 2009&amp;period; My title must seem like a contradiction&amp;period; What can solitude have to do with leadership&amp;quest;</p><img src="https://theamericanscholar.org/uploads/2015/12/waterbottle-copy.png" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/621ac2bf-a968-41d8-bdbf-0bbdfdfcbfec.jpg)
