@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paco's Reads]]></title>
+        <description><![CDATA[Paco's Reads]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 03:47:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.theatlantic.com/assets/media/img/mt/2015/10/WealyFamiliesSociology_3/lead_960.jpg?1445526718">]]></description>
+            <link>undefined7081d3f9-45a0-42e8-9dd6-87f6051ff5ef/index.html</link>
+            <guid isPermaLink="false">7081d3f9-45a0-42e8-9dd6-87f6051ff5ef</guid>
+            <pubDate>Sat, 26 Dec 2015 03:47:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
