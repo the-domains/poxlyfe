@@ -1,6 +1,6 @@
 name: poxlyfe
 favicon: null
-layout_spectrum: 0.75448
+layout_spectrum: 0
 typography_spectrum: 0.9380562636069953
 title: "Paco's Reads"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d5f6ff'
     - '#7c0018'
     - '#8c7c5c'
-  brandStrength: 0.4375
+  brandStrength: 0.25
   lightness: 0.375
   saturation: 0.0625
   rhythmicContrast: 0.5
