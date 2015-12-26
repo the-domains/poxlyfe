@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[poxlyfe]]></title>
         <description><![CDATA[poxlyfe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/poxlyfe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 03:15:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 03:23:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/poxlyfe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solitude and Leadership]]></title>
+            <description><![CDATA[<article><h1>Solitude and Leadership</h1><p>If you want others to follow, learn to be alone with your thoughts The lecture below was delivered to the plebe class at the United States Military Academy at West Point in October 2009. My title must seem like a contradiction. What can solitude have to do with leadership?</p><img src="https://theamericanscholar.org/uploads/2015/12/waterbottle-copy.png"></article>]]></description>
+            <link>https://www.instapaper.com/read/666706600</link>
+            <guid isPermaLink="false">e6d66d9e-807d-46a4-bf4b-0275e3bd02a8</guid>
+            <pubDate>Sat, 26 Dec 2015 03:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Want to Create Things That Matter? Be Lazy.  by Cal Newport]]></title>
-            <description><![CDATA[<article><h1>Want to Create Things That Matter? Be Lazy.  by Cal Newport</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468b779c-fcad-4f0e-8055-a698334ae01c.jpg"></article>]]></description>
-            <link>undefinedwant-to-create-things-that-matter-be-lazy-by-cal-newport/index.html</link>
+            <description><![CDATA[<article><h1>Want to Create Things That Matter? Be Lazy.  by Cal Newport</h1><p>Want to Create Things That Matter? Be Lazy. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5527060461b60010ac4fb0d0d30dc53684d3d042.jpg"></article>]]></description>
+            <link>https://thegrid.ai/poxlyfe/want-to-create-things-that-matter-be-lazy-by-cal-newport/index.html</link>
             <guid isPermaLink="false">599f2b9b-9125-4f68-9b42-805e0c6d58b3</guid>
             <pubDate>Sat, 26 Dec 2015 03:15:05 GMT</pubDate>
         </item>
