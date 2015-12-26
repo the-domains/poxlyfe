@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "What do you desire? What makes you itch? What sort of a situation would you like? Let's suppose, I do this often in vocational guidance of students, they come to me and say, well, \"we're getting out of college and we have the faintest idea what we want to do\"."
-datePublished: '2015-12-26T03:40:28.469Z'
-dateModified: '2015-12-26T03:40:18.329Z'
+datePublished: '2015-12-26T03:41:45.605Z'
+dateModified: '2015-12-26T03:41:42.212Z'
 author:
   - name: Omer K. F.
     url: 'http://vimeo.com/okhalid'
@@ -38,3 +38,5 @@ _context: 'http://schema.org'
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1c982f0-9b5c-442b-b923-ee5b3d378b7a.jpg)
+
+What do you desire? What makes you itch? What sort of a situation would you like? Let's suppose, I do this often in vocational guidance of students, they come to me and say, well, "we're getting out of college and we have the faintest idea what we want to do".
