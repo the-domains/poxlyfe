@@ -4,15 +4,8 @@
         <description><![CDATA[Paco's Reads]]></description>
         <link>https://thegrid.ai/poxlyfe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 04:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 04:07:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poxlyfe/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The End of Men]]></title>
-            <description><![CDATA[<article><h1>The End of Men</h1><p>Earlier this year, women became the majority of the workforce for the first time in U.S. history. Most managers are now women too. And for every two men who get a college degree this year, three women will do the same. For years, women's progress has been cast as a struggle for equality.</p><img src="http://cdn.theatlantic.com/assets/media/img/2015/05/original_14b-1/lead_960.jpg?1431969974"></article>]]></description>
-            <link>http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/308135/</link>
-            <guid isPermaLink="false">3bac7795-85de-4f84-a778-1d604ac4e0dd</guid>
-            <pubDate>Sat, 26 Dec 2015 04:06:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Overjustification Effect]]></title>
             <description><![CDATA[<article><h1>The Overjustification Effect</h1><p>The Misconception: There is nothing better in the world than getting paid to do what you love. The Truth: Getting paid for doing what you already enjoy will sometimes cause your love for the task to wane because you attribute your motivation as coming from the reward, not your internal feelings.</p><img src="http://youarenotsosmart.files.wordpress.com/2011/12/1101710920_400.jpg?w=940"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.thebookoflife.org/consumer-education-on-learning-how-to-spend/</link>
             <guid isPermaLink="false">88849f55-60e2-47c6-82aa-71ade71c5658</guid>
             <pubDate>Sat, 26 Dec 2015 03:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Elaborate Charade to Obfuscate Who Writes Pop Music]]></title>
+            <description><![CDATA[<article><h1>The Elaborate Charade to Obfuscate Who Writes Pop Music</h1><p>Meet the bald Norwegians and other unknowns who actually create the songs that top the charts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ab3ddc833eb98645c89b36c86ab90bc85d24164.jpg"></article>]]></description>
+            <link>http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/</link>
+            <guid isPermaLink="false">3605c13e-2d1a-495d-9f1a-2e3dbc17b0e8</guid>
+            <pubDate>Sat, 26 Dec 2015 03:57:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
