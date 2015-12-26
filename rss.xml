@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[poxlyfe]]></title>
+        <description><![CDATA[poxlyfe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 03:15:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Want to Create Things That Matter? Be Lazy.  by Cal Newport]]></title>
+            <description><![CDATA[<article><h1>Want to Create Things That Matter? Be Lazy.  by Cal Newport</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468b779c-fcad-4f0e-8055-a698334ae01c.jpg"></article>]]></description>
+            <link>undefinedwant-to-create-things-that-matter-be-lazy-by-cal-newport/index.html</link>
+            <guid isPermaLink="false">599f2b9b-9125-4f68-9b42-805e0c6d58b3</guid>
+            <pubDate>Sat, 26 Dec 2015 03:15:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
